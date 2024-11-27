@@ -1,4 +1,4 @@
-# List of external plug-in models previously loaded. Timestamp: 1732105277789
+# List of external plug-in models previously loaded. Timestamp: 1732708934695
 file:/C:/Users/anton/.p2/pool/plugins/bcpg_1.78.1.jar
 file:/C:/Users/anton/.p2/pool/plugins/bcpkix_1.78.1.jar
 file:/C:/Users/anton/.p2/pool/plugins/bcprov_1.78.1.jar
@@ -21,6 +21,9 @@ file:/C:/Users/anton/.p2/pool/plugins/com.jgoodies.common_1.8.1.v20240327-0800.j
 file:/C:/Users/anton/.p2/pool/plugins/com.jgoodies.forms_1.9.0.v20240327-0800.jar
 file:/C:/Users/anton/.p2/pool/plugins/com.miglayout.core_11.4.0.jar
 file:/C:/Users/anton/.p2/pool/plugins/com.miglayout.swing_11.4.0.jar
+file:/C:/Users/anton/.p2/pool/plugins/com.python.pydev.analysis_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/com.python.pydev.debug_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/com.python.pydev.refactoring_12.2.0.202409031913/
 file:/C:/Users/anton/.p2/pool/plugins/com.sun.el.javax.el_3.0.4.jar
 file:/C:/Users/anton/.p2/pool/plugins/com.sun.jna_5.14.0.v20231211-1200/
 file:/C:/Users/anton/.p2/pool/plugins/com.sun.jna.platform_5.14.0.jar
@@ -598,6 +601,19 @@ file:/C:/Users/anton/.p2/pool/plugins/org.osgi.util.measurement_1.0.2.2018020121
 file:/C:/Users/anton/.p2/pool/plugins/org.osgi.util.position_1.0.1.201505202026.jar
 file:/C:/Users/anton/.p2/pool/plugins/org.osgi.util.promise_1.3.0.202212101352.jar
 file:/C:/Users/anton/.p2/pool/plugins/org.osgi.util.xml_1.0.2.202109301733.jar
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.ast_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.core_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.customizations_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.debug_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.django_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.help_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.jython_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.parser_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.refactoring_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.shared_core_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.shared_interactive_console_12.2.0.202409031913/
+file:/C:/Users/anton/.p2/pool/plugins/org.python.pydev.shared_ui_12.2.0.202409031913/
 file:/C:/Users/anton/.p2/pool/plugins/org.sat4j.core_2.3.6.v20201214.jar
 file:/C:/Users/anton/.p2/pool/plugins/org.sat4j.pb_2.3.6.v20201214.jar
 file:/C:/Users/anton/.p2/pool/plugins/org.snakeyaml.engine_2.7.0.jar
